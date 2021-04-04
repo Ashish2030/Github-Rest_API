@@ -1,5 +1,5 @@
 <h1 align="center">𝐆𝐢𝐭𝐡𝐮𝐛-𝐑𝐞𝐬𝐭_𝐀𝐏𝐈</h1>
-<p align="center">👨‍🎓🛰️  ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ᴀꜱꜱɪɢɴᴇᴅ ᴛᴏ ᴍᴇ ᴡʜɪʟᴇ ɪ ᴀᴍ ᴀ ᴛʀᴀɪɴᴇᴇ ɪɴ ᴜᴘɢʀᴀᴅ , ɪᴛ ɪꜱ ᴀ ᴛʏᴘᴇ ᴏꜰ ᴀ ʙʟᴏɢɢɪɴɢ ᴡᴇʙꜱɪᴛᴇ. ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ꜰʀᴏɴᴛ ᴇɴᴅ ᴘᴀʀᴛ ᴏꜰ ᴛʜᴇ ᴡᴇʙꜱɪᴛᴇ , ᴛʜᴇ ᴄᴏᴍᴘʟᴇᴛᴇ ᴘʀᴏᴊᴇᴄᴛ ᴡɪʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ ᴀꜰᴛᴇʀ 🤖🎯 ɪ ꜰɪɴɪꜱʜ ᴍʏ ᴛʀᴀɪɴɪɴɢ. <p><br>
+<p align="center">👨‍🌟 In this project I have tried to access the Rest API in the form of JSON data which is provided by Github 💻 🎯🚀<p><br>
 <a href="https://github.com/ashish2030/Github-Rest_API/fork" target="blank">
 
 <p align="center">
