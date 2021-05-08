@@ -1,4 +1,4 @@
-<h1 align="center">𝐆𝐢𝐭𝐡𝐮𝐛-𝐑𝐞𝐬𝐭_𝐀𝐏𝐈</h1>
+<h1 align="center">𝐆𝐢𝐭𝐡𝐮𝐛-𝐑𝐞𝐬𝐭-𝐀𝐏𝐈</h1>
 <p align="center">🌟 ɪɴ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪ ʜᴀᴠᴇ ᴛʀɪᴇᴅ ᴛᴏ ᴀᴄᴄᴇꜱꜱ ᴛʜᴇ ʀᴇꜱᴛ ᴀᴘɪ ɪɴ ᴛʜᴇ ꜰᴏʀᴍ ᴏꜰ ᴊꜱᴏɴ ᴅᴀᴛᴀ ᴡʜɪᴄʜ ɪꜱ ᴘʀᴏᴠɪᴅᴇᴅ ʙʏ ɢɪᴛʜᴜʙ 💻 🎯🚀 <p><br>
 <a href="https://github.com/ashish2030/Github-Rest_API/fork" target="blank">
 
