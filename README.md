@@ -15,9 +15,13 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Github-Rest_API?style=flat-square" alt="Github-Rest_API"/>
 </a>
   </p>
+  
+ [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Github-Rest_API)](https://github.com/ashish2030/Github-Rest_API/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Github-Rest_API)](https://github.com/ashish2030/Github-Rest_API/archive/master.zip)
+
 <p align="center"><img src="https://github.com/Ashish2030/Github-Rest_API/blob/master/Video/gif.gif" ></p>
 <p align="center">
-    <a href="https://github.com/Ashish2030/Github-Rest_API" target="blank">View Demo</a>
+    <a href="https://githubrestapi.herokuapp.com/" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/Github-Rest_API/issues/new/choose">Report Bug</a>
     ·
