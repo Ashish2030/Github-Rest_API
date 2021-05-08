@@ -7,12 +7,12 @@ xhr.onreadystatechange=()=>
     {
    
         var m=JSON.parse(xhr.responseText);
-      
         console.log(typeof(xhr.responseText));
         console.log(typeof(m));
-       
+console.log(m);
+        //    document.querySelector('div').innerHTML=xhr.responseText;
            document.querySelector('img').setAttribute('src',m[0].avatar_url);
-           document.querySelector('div').innerHTML=`<h3>${m[0].node_id}</h3>`; 
+           document.querySelector('div').innerHTML=`<h3>${m[0].login}</h3>`; 
 
     }
 }
