@@ -7,7 +7,7 @@ xhr.onreadystatechange=()=>
     {
    
         var m=JSON.parse(xhr.responseText);
-        console.log(m);
+      
         console.log(typeof(xhr.responseText));
         console.log(typeof(m));
        
